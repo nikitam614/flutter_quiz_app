@@ -1,0 +1,4 @@
+#Thu Apr 04 01:22:13 IST 2024
+base.0=C\:\\Users\\Nikita\\Documents\\p\\quiz_application_tut_from_scracth\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
